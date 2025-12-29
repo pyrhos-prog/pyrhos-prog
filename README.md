@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI GitHub!** 🌟🔥💻
 
 <p align="center">
-  <img src="banner.png" alt="Banner" width=1000" height="350">
+  <img src="" alt="Banner" width=1000" height="350">
 </p>
 
 <h1 align="center">
