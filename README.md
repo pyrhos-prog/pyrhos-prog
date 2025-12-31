@@ -1,17 +1,17 @@
-### 🚀 **BIENVENIDO A MI GitHub!** 🌟🔥💻
-
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&width=1500&height=200&section=header&text=PYRHOS&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Red%20Team%20|%20OSINT%20|%20CTF%20Player&descSize=18&descAlignY=55" />
+</p>
+
   <!-- <img src="" alt="Banner" width=1000" height="350"> -->
 </p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy Osman Martinez / @pyrhos ✨🔥
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=FF5733&center=true&vCenter=true&width=600&fontSize=108&lines=%F0%9F%9A%80+Bienvenido+a+mi+repositorio!+%F0%9F%94%A5;%F0%9F%92%BB+Pentester!;%F0%9F%93%9A+Red+Team;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=1000&size=23&pause=1000&color=DC0000&center=true&vCenter=true&repeat=false&width=1135&height=152&lines=Red+Team+%7C+OSINT+%7C+CTF+Player" alt="Typing SVG" /></a>
 </p>
-
 <hr style="border: 2px solid #FF5733;">
 
 <h2 align="left">Red Team</h2>
