@@ -34,7 +34,7 @@
 - 💼 &nbsp; **Estudiando Grado de Telecomunicaciones**  
 - 🌱 &nbsp; Estoy aprendiendo más sobre **Hacking Active Directory**  
 - 💬 &nbsp; Me gusta hablar sobre **ciberseguridad y tecnologia**  
-- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/osman-m-00b4a7214/))**  
+- 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/osman-m-00b4a7214/)**  
 
 
 
