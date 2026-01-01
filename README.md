@@ -77,11 +77,15 @@ pyrhos@github:~$ cat perfil.txt
 ---
 
 
-# `> cat /etc/os_release`
+# `> cat /etc/os-release`
 
-- **Debian GNU/Linux** (sistema principal)  
-- **Kali Linux** (laboratorios y CTFs)  
-- **Windows** (uso secundario)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="120" height="120" title="Windows" style="border-radius: 50%; margin-right: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/archlinux/archlinux-original.svg" width="120" height="120" title="Arch" style="border-radius: 50%; margin-right: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kalilinux/kalilinux-original.svg" width="120" height="120" title="Kali" style="border-radius: 50%; margin-right: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="120" height="120" title="Debian" style="border-radius: 50%; margin-right: 40px;"/>
+</p>
 
 ---
 
