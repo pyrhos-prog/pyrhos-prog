@@ -90,6 +90,17 @@ pyrhos@github:~$ cat perfil.txt
 
 # `> ls -l repositorios`
 
+<div align="center">
+
+### Repositorios
+
+| Repositorio | Descripción |
+|:-----------|:------------|
+| [**pyrhos.gitbook.io**](https://github.com/pyrhos-prog/pyrhos.gitbook.io) | Gitbook de ciberseguridad, redes y linux. |
+
+</div>
+
+
 Este perfil incluye:
 - Scripts en Python relacionados con redes y seguridad  
 - Notas de práctica y ejercicios  
