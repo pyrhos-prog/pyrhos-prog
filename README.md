@@ -14,31 +14,25 @@
 </p>
 <hr style="border: 2px solid #FF5733;">
 
-<h2 align="left">Red Team</h2>
+# `> whoami`
 
-<h3 align="left">Pentester jugador de CTFs en plataformas como Hackthebox y Tryhackme</h3>
+```bash
+pyrhos@github:~$ cat perfil.txt
 
-🎓 Estudiante de Telecomunicaciones  
-🔐 Pentester junior enfocado en seguridad ofensiva  
-🧪 Jugador de CTFs (Hack The Box / TryHackMe)  
-📍 España  
+  DESIGNACIÓN:     Entusiasta de la Ciberseguridad | Orientado a Red Team
+  FORMACIÓN:       Grado Medio en Telecomunicaciones (en curso)
+  ESPECIALIZACIÓN: Red Team | OSINT | Seguridad Web | Seguridad WiFi y Redes
+  METODOLOGÍA:     Plataformas CTF | Laboratorios prácticos | Autoestudio
+  ENFOQUE ACTUAL:  Ataques a Active Directory
 
----
+  ESTADO:          [ ACTIVO ]
 
-## 🛡️ Sobre mí
-
-Soy un entusiasta de la ciberseguridad con interés en **Red Team** y **OSINT**.  
-Aprendo principalmente mediante **práctica directa**, combinando plataformas CTF, laboratorios y autoestudio para construir una base técnica sólida.
-
-- 🎓 Estudiando Telecomunicaciones (Formación Profesional)
-- 🔐 Interesado en seguridad Web, WiFi y de redes
-- 🧠 Actualmente aprendiendo **ataques a Active Directory**
-- 🧪 Experiencia práctica en plataformas CTF
-- 💬 Interesado en ciberseguridad, redes y sistemas
+```
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pyrhos101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-m-00b4a7214) 
 
 ---
+# `> neofetch --skills`
 
 ## 🧰 Habilidades Red Team
 
@@ -53,7 +47,34 @@ Aprendo principalmente mediante **práctica directa**, combinando plataformas CT
 
 ---
 
-## 🧪 Plataformas y práctica
+<div align="center">
+
+### Lenguajes de programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Herramientas 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kismet](https://img.shields.io/badge/Kismet-000000?style=for-the-badge&logo=wifi&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-A80030?style=for-the-badge&logo=wifi&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-CC0000?style=for-the-badge&logo=wifi&logoColor=white)
+
+### Especializaciones
+![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=searchengin&logoColor=white)
+![Hacking Wi-Fi](https://img.shields.io/badge/Hacking_WiFi-CC0000?style=for-the-badge&logo=wifi&logoColor=white)
+![Hacking Web](https://img.shields.io/badge/Hacking_Web-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
+</div>
+
+---
+
+
+
+# `> cat /etc/hosts`
 
 - Hack The Box  
 - TryHackMe  
@@ -62,15 +83,17 @@ Aprendo principalmente mediante **práctica directa**, combinando plataformas CT
 
 ---
 
-## 🖥️ Sistemas Operativos
+
+# `> cat /etc/os_release`
 
 - **Debian GNU/Linux** (sistema principal)  
 - **Kali Linux** (laboratorios y CTFs)  
-- Windows (uso secundario, no ofensivo)
+- **Windows** (uso secundario)
 
 ---
 
-## 📂 Repositorios y notas
+
+# `> ls -l repositorios`
 
 Este perfil incluye:
 - Scripts en Python relacionados con redes y seguridad  
@@ -81,16 +104,16 @@ Se añadirán progresivamente writeups y herramientas más estructuradas.
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyrhos-prog&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pyrhos-prog" alt="Visitas al perfil"/>
-  <img src="https://img.shields.io/github/followers/pyrhos-prog?style=flat&logo=github" alt="Seguidores"/>
-</p>
+# `> git -stats`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyrhos-prog&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyrhos-prog&theme=default" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pyrhos-prog&theme=radical&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pyrhos-prog&theme=radical&utcOffset=8" />
+</picture>
 
 ---
 
