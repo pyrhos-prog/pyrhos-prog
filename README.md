@@ -15,12 +15,10 @@
 pyrhos@github:~$ cat perfil.txt
 
   DESIGNACIÓN:     Entusiasta de la Ciberseguridad | Orientado a Red Team
-  FORMACIÓN:       Grado Medio en Telecomunicaciones (en curso)
+  FORMACIÓN:       Grado Medio en Telecomunicaciones
   ESPECIALIZACIÓN: Red Team | OSINT | Seguridad Web | Seguridad WiFi y Redes
-  METODOLOGÍA:     Plataformas CTF | Laboratorios prácticos | Autoestudio
-  ENFOQUE ACTUAL:  Ataques a Active Directory
-
-  ESTADO:          [ ACTIVO ]
+  METODOLOGÍA:     Plataformas CTF | Laboratorios prácticos | Autodidacta
+  ENFOQUE ACTUAL:  Creación de Wiki de ciberseguridad y Programación en Python
 
 ```
 
